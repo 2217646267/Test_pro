@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>test/build/Desktop_Qt_5_15_2_GCC_64bit-Debug/github.png</file>
+        <file>github.png</file>
+    </qresource>
+</RCC>
